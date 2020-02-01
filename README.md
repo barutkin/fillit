@@ -9,6 +9,6 @@ Obviously, the main goal is to find the smallest square in the minimal amount of
 
 We used backtracking with tons of ifs. It's relatively fast.
 
-<img src="./moulinette.png" width="100%" align="center">
+<p align="center"><img src="./moulinette.png" width="80%"></p>
 
 [Useful source](https://medium.com/@bethnenniger/fillit-solving-for-the-smallest-square-of-tetrominos-c6316004f909)
